@@ -1,0 +1,22 @@
+.static-box{
+    width: 300px;
+    height: 100px;
+    background-color: #4caf4c;
+    color: white;
+    text-align: center;
+    padding: 20px;
+    margin: 10px;
+    position: static;/* by default static eita normal thake */
+}
+
+.relative-box{
+    background-color: #2196f2;
+    padding: 20px;
+    margin: 10px;
+    color: white;
+    width: 300px;
+    height: 100px;
+    position: relative;
+    top:10px;
+    left: 100px;
+}
