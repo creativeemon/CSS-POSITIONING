@@ -40,3 +40,12 @@
     top: -60px;
     left: 450px;
 }
+
+.fixed-box{
+    position: fixed;
+    top: 100px;
+    right: 10px;
+    background-color: #05bd4b;
+    padding: 10px;
+}
+
